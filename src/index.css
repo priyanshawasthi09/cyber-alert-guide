@@ -33,6 +33,9 @@ All colors MUST be HSL.
     --security: 210 100% 45%;
     --security-foreground: 0 0% 100%;
 
+    --success: 142 76% 36%;
+    --success-foreground: 0 0% 100%;
+
     --warning: 38 92% 50%;
     --warning-foreground: 0 0% 100%;
 
